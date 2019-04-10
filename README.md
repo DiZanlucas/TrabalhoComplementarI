@@ -1,4 +1,4 @@
-# TrabalhoComplementarI
+# Trabalho Complementar I
 Este repositório contém implementações em Java dos seguintes algoritmos de ordenação, implementados para que ordenem palavras.
   * Selection Sort
   * Bubble Sort
